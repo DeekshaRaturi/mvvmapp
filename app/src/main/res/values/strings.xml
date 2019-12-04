@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mvvm App</string>
+    <string name="error_txt">Error occoured</string>
+</resources>

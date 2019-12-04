@@ -12,9 +12,7 @@ class ListViewModel :ViewModel(){
 
     fun refresh(){
 
-
         fetchCountries()
-
 
 
     }
